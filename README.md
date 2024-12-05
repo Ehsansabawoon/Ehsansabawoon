@@ -1,4 +1,4 @@
-# Hello, I'm Ehsan
+# Hello, I'm Ehsan Laghmani
 www.linkedin.com/in/ehsan-laghmani-633792270
 
 I'm currently a sophomore at the University of Central Oklahoma, pursuing my passion for programming. I've always dreamed of becoming a programmer, and this degree is a step toward turning that dream into reality.
