@@ -19,6 +19,5 @@ My objective is to work as a software developer for high-end companies, where I 
 | Leadership & Project Management | SOC Automation Lab|
 
 ## Projects
-- Inventory Management System
 
 -<a href="https://github.com/Ehsansabawoon/Weather-Application/blob/main/README.md)">Weather Application</a> 
