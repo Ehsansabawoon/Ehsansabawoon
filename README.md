@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hello, I'm Ehsan
+www.linkedin.com/in/ehsan-laghmani-633792270
 
-<!--
-**Ehsansabawoon/Ehsansabawoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently a sophomore at the University of Central Oklahoma, pursuing my passion for programming. I've always dreamed of becoming a programmer, and this degree is a step toward turning that dream into reality.
 
-Here are some ideas to get you started:
+## Objective
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My objective is to work as a software developer for high-end companies, where I can contribute to innovative projects and continue to grow as a professional in the tech industry.
+## Skills
+[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+|  Python                                       |Data Analysis and Automation Projects   |
+|  JAva                                         |Programming Fundamentals Projects|
+|  C#                                           | Application Development Projects|
+|  Problem Solving & Innovation                 | Academic and Team Projects|
+| Case Management with TheHive                  | University Leadership Roles and Group Projects|
+| Leadership & Project Management | SOC Automation Lab|
+
+## Projects
+- Inventory Management System
+- Weather Application
