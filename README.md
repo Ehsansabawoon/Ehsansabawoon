@@ -12,7 +12,7 @@ My objective is to work as a software developer for high-end companies, where I 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 |  Python                                       |Data Analysis and Automation Projects   |
-|  JAva                                         |Programming Fundamentals Projects|
+|  JAva                                         |Programming Fundamentals Projects <a href="https://github.com/Ehsansabawoon/Weather-Application/blob/main/README.md)">Weather Application</a>|
 |  C#                                           | Application Development Projects|
 |  Problem Solving & Innovation                 | Academic and Team Projects|
 | Case Management with TheHive                  | University Leadership Roles and Group Projects|
@@ -20,4 +20,5 @@ My objective is to work as a software developer for high-end companies, where I 
 
 ## Projects
 - Inventory Management System
-- Weather Application
+
+-<a href="https://github.com/Ehsansabawoon/Weather-Application/blob/main/README.md)">Weather Application</a> 
