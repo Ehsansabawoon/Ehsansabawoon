@@ -1,13 +1,12 @@
 # Hello, I'm Ehsan Laghmani
 www.linkedin.com/in/ehsan-laghmani-633792270
 
-I'm currently a sophomore at the University of Central Oklahoma, pursuing my passion for programming. I've always dreamed of becoming a programmer, and this degree is a step toward turning that dream into reality.
+I'm currently a Junior at the University of Central Oklahoma, pursuing my passion for programming. I've always dreamed of becoming a programmer, and this degree is a step toward turning that dream into reality.
 
 ## Objective
 
 My objective is to work as a software developer for high-end companies, where I can contribute to innovative projects and continue to grow as a professional in the tech industry.
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
